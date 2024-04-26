@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Bars",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 314,
+      "y": 6,
+      "z": -3201
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Ruby",
+    "color": "#ff0000",
+    "visibility": "always",
+    "location": {
+      "x": 336,
+      "y": 7,
+      "z": -3208
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Block",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 344,
+      "y": 5,
+      "z": -3208
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bundle",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 360,
+      "y": 19,
+      "z": -3214
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Amethyst+Ruby",
+    "color": "#b200ff",
+    "visibility": "always",
+    "location": {
+      "x": 368,
+      "y": 19,
+      "z": -3219
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bars",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 380,
+      "y": 19,
+      "z": -3226
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Ruby",
+    "color": "#ff0000",
+    "visibility": "always",
+    "location": {
+      "x": 341,
+      "y": 20,
+      "z": -3212
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Ruby",
+    "color": "#ff0000",
+    "visibility": "always",
+    "location": {
+      "x": 323,
+      "y": 17,
+      "z": -3190
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Nugget + LG Pearl",
+    "color": "#0000ff",
+    "visibility": "always",
+    "location": {
+      "x": 308,
+      "y": 12,
+      "z": -3228
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bars",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 294,
+      "y": 16,
+      "z": -3224
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "LG Pearl",
+    "color": "#0000ff",
+    "visibility": "always",
+    "location": {
+      "x": 345,
+      "y": 19,
+      "z": -3243
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bars",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 359,
+      "y": 19,
+      "z": -3233
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Topaz",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 349,
+      "y": 18,
+      "z": -3204
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Misc",
+    "color": "#ffffff",
+    "visibility": "always",
+    "location": {
+      "x": 291,
+      "y": 18,
+      "z": -3192
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Ruby",
+    "color": "#ff0000",
+    "visibility": "always",
+    "location": {
+      "x": 335,
+      "y": 24,
+      "z": -3238
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bundle",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 321,
+      "y": 19,
+      "z": -3239
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Block",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 280,
+      "y": 19,
+      "z": -3213
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Sapphire",
+    "color": "#0000ff",
+    "visibility": "always",
+    "location": {
+      "x": 279,
+      "y": 19,
+      "z": -3195
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bundle",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 321,
+      "y": 17,
+      "z": -3183
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Huge Pearl",
+    "color": "#ffffff",
+    "visibility": "always",
+    "location": {
+      "x": 325,
+      "y": 10,
+      "z": -3211
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Misc",
+    "color": "#ffffff",
+    "visibility": "always",
+    "location": {
+      "x": 307,
+      "y": 27,
+      "z": -3212
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bars + LG Pearl",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 338,
+      "y": 20,
+      "z": -3195
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Bundle",
+    "color": "#ffff00",
+    "visibility": "always",
+    "location": {
+      "x": 340,
+      "y": 7,
+      "z": -3229
+    },
+    "icon": "diamond"
+  },
+  {
+    "name": "Blocks + misc",
+    "color": "#ffffff",
+    "visibility": "always",
+    "location": {
+      "x": 330,
+      "y": 26,
+      "z": -3198
+    },
+    "icon": "diamond"
+  }
+]
