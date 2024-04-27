@@ -1,4 +1,9 @@
-
+/*
+ *  * Copyright © Wynntils - 2018 - 2022.
+ *
+ * This file originates from https://github.com/Wynntils/Wynntils/blob/development/src/main/java/com/wynntils/core/framework/rendering/colors/CustomColor.java
+ * and has been modified for this program.
+ */
 public class CustomColor {
     public float
             r,  // The RED   value of the color(0.0f -> 1.0f)

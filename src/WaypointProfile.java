@@ -1,3 +1,9 @@
+/*
+ *  * Copyright © Wynntils - 2018 - 2022.
+ *
+ * This file originates from https://github.com/Wynntils/Wynntils/blob/development/src/main/java/com/wynntils/modules/map/instances/WaypointProfile.java
+ * and has been modified for this program.
+ */
 import java.nio.BufferUnderflowException;
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
